@@ -3,13 +3,13 @@
   "rules": [
     {
       "domain": [
-        "plex.tv",
+        "plex.tv"
       ]
     },
     {
       "domain_suffix": [
-        ".plex.tv",
+        ".plex.tv"
       ]
-    },
+    }
   ]
 }
