@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "plex.tv",
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".plex.tv",
+      ]
+    },
+  ]
+}
